@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohammedzeglam-pg
-- 👀 I’m interested in rust lua java kotlin and web
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in rust lua java c and web
+- 🌱 I’m currently learning zig
+- 💞️ I’m looking to collaborate on zig
 - 📫 How to reach me ...
 
 <!---
