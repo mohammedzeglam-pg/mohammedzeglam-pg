@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Zeglam
-- 👀 I’m interested in rust lua java c elixir and web
+- 👀 I’m interested in rust zig elixir and web
 - 🌱 I’m currently fullstack developer and consultant
-- 💞️ I’m looking to collaborate on liveview-native
+- 📨 [contact with me](mailto:mohammedzeglam@gmail.com)
 
 <!---
 mohammedzeglam-pg/mohammedzeglam-pg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
